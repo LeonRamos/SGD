@@ -1,5 +1,7 @@
 <?php
 
+require_once MODEL_PATH . 'TimeByTimeModel.php';
+
 class TimeByTimeModel
 {
     private $db;

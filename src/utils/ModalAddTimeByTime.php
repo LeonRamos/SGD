@@ -1,5 +1,5 @@
-
 <?php
+
 require_once SERVER_PATH . "DB.php";
 require_once MODEL_PATH . "UserModel.php";
 require_once CONTROLLER_PATH . 'TimeByTimeController.php';

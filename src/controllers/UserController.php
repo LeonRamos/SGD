@@ -1,7 +1,7 @@
 <?php
 
-require_once MODEL_PATH . 'UserModel.php';
-require_once UTIL_PATH . 'Session.php';
+//require_once MODEL_PATH . 'UserModel.php';
+//require_once UTIL_PATH . 'Session.php';
 
 class UserController
 {

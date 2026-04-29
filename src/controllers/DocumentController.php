@@ -1,12 +1,12 @@
 <?php
 
 require_once MODEL_PATH . 'DocumentModel.php';
-require_once MODEL_PATH . 'UserModel.php';
+//require_once MODEL_PATH . 'UserModel.php';
 require_once EMAIL_PATH . 'Exception.php';
 require_once EMAIL_PATH . 'PHPMailer.php';
 require_once EMAIL_PATH . 'SMTP.PHP';
 require_once PDF_PATH . 'library/fpdf.php';
-require_once UTIL_PATH . 'Session.php';
+//require_once UTIL_PATH . 'Session.php';
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
